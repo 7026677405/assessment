@@ -1,0 +1,12 @@
+(a) What is reverse-i-search in a Linux terminal?
+
+	ans- find past commands
+
+(b) How do you list out the hidden directories using Linux command line tool?
+
+	ans- ls -a
+(c) How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+        ans- Linux offers great speed and security,and during my college days i have used linux and in my personel laptop i have using linux
+
+(d) Have you ever used Servers to host any web applications in the past? If yes, what
+	ans- yes, i have used wordpress and xampp,apache
